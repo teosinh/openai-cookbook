@@ -1605,6 +1605,7 @@
   authors:
     - msingh-openai
   tags:
+    - web-browsing
     - completions
 
 - title: Prompt Caching 101 
@@ -1614,3 +1615,4 @@
     - charuj
   tags:
     - completions
+
